@@ -1,6 +1,6 @@
 ## Hi there 👋
-📫 How to reach me - Isaacxenosv2@gmail.com or Arika013@umn.edu
-⚡️ ITI Student at the UMN
+System.out.println("📫 How to reach me - Isaacxenosv2@gmail.com or Arika013@umn.edu");
+System.out.println("⚡️ ITI Student at the UMN");
 
 <!--
 **IsaacA718/IsaacA718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
