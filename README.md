@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📫 How to reach me - Isaacxenosv2@gmail.com or Arika013@umn.edu
+📫 How to reach me - Isaacxenosv2@gmail.com
 
 ⚡️ ITI Student at the UMN
 
