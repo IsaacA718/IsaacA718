@@ -34,9 +34,9 @@
 
 <div align="center">
 
-### Information Technology • Data • Systems • Technology
+### Information Technology • Data • Systems • Analytics
 
-**IT Infrastructure student building practical technology solutions.**
+**IT Infrastructure graduate building practical technology solutions.**
 
 I use GitHub to build, experiment, document, and showcase projects across
 **programming, networking, systems, data, and analytics.**
@@ -229,7 +229,7 @@ Want to see everything instead of only the highlighted projects?
 
 <div align="center">
 
-### Thanks for stopping by 👋
+### Thanks for stopping by 👋 Stay committed to growth!
 
 **Building • Learning • Solving • Improving**
 
