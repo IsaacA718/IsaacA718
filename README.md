@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=ISAAC%20ARIKA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%20IT%20%7C%20DATA%20%7C%20SYSTEMS%20%7C%20LEARNING FOR WHAT'S NEXT&descAlignY=60&descSize=17&color=0:6C63FF,50:00C2FF,100:00D4A8" width="100%" alt="Isaac Arika header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=ISAAC%20ARIKA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20%7C%20DATA%20%7C%20SYSTEMS%20%7C%20INNOVATION&descAlignY=60&descSize=17&color=0:6C63FF,50:00C2FF,100:00D4A8" width="100%" alt="Isaac Arika header"/>
 
 <br>
 
