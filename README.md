@@ -1,196 +1,245 @@
-<div align="center">
+<!-- ISAAC ARIKA — GitHub Profile README -->
 
-ISAAC ARIKA
+::: {align="center"}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=ISAAC%20ARIKA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20%7C%20DATA%20%7C%20SYSTEMS%20%7C%20TECHNOLOGY&descAlignY=60&descSize=17&color=0:6C63FF,50:00C2FF,100:00D4A8" width="100%"/>{=html}
 
-Information Technology • Data • Systems • Business Technology
+<br>{=html}
 
+<a href="#home">{=html}<img src="https://img.shields.io/badge/🏠%20HOME-6C63FF?style=for-the-badge" alt="Home">{=html}</a>{=html}
+ 
+<a href="#projects">{=html}<img src="https://img.shields.io/badge/🚀%20PROJECTS-00AEEF?style=for-the-badge" alt="Projects">{=html}</a>{=html}
+ 
+<a href="#connect">{=html}<img src="https://img.shields.io/badge/🔗%20SOCIALS-00B894?style=for-the-badge" alt="Socials">{=html}</a>{=html}
+ 
+<a href="https://github.com/IsaacA718?tab=repositories">{=html}<img src="https://img.shields.io/badge/📁%20ALL%20REPOSITORIES-FF7675?style=for-the-badge" alt="All repositories">{=html}</a>{=html}
 
+<br>{=html}<br>{=html}
 
+<a href="https://github.com/IsaacA718">{=html}<img src="https://cdn.simpleicons.org/github/181717" width="38" alt="GitHub">{=html}</a>{=html}
+   
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/isaac-arikax718/)">{=html}<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn">{=html}</a>{=html}
+   
+<a href="YOUR_INSTAGRAM_URL">{=html}<img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram">{=html}</a>{=html}
+   
+<a href="YOUR_X_URL">{=html}<img src="https://cdn.simpleicons.org/x/111111" width="38" alt="X">{=html}</a>{=html}
+   
+<a href="mailto:Isaacxenosv2@gmail.com">{=html}<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email">{=html}</a>{=html}
+:::
 
+<a name="home">{=html}</a>{=html}
 
-<br>
+👋 Hi, I'm Isaac
 
-IT focused on technology, data, systems, automation, and business solutions.
+::: {align="center"}
 
-<br>
+Information Technology • Data • Systems • Technology
 
-HOME    PROJECTS    SKILLS    EXPERIENCE    CONNECT
+IT Infrastructure student building practical technology solutions.
 
-</div>
+I use GitHub to showcase projects, experiment with technology, and
+document solutions across programming, networking, systems, data, and
+analytics.
 
-<a name="about"></a>
+<br>{=html}
 
-👋 About Me
+<img src="https://img.shields.io/badge/University%20of%20Minnesota-IT%20Infrastructure-7A0019?style=flat-square">{=html}
+<img src="https://img.shields.io/badge/Focus-Technology%20%2B%20Data-00AEEF?style=flat-square">{=html}
+<img src="https://img.shields.io/badge/Building-Real--World%20Projects-00B894?style=flat-square">{=html}
+:::
 
-I'm Isaac Arika, an Information Technology Infrastructure graduate at the University of Minnesota with an interest in building practical technology solutions.
+<a name="projects">{=html}</a>{=html}
 
-I'm especially interested in the intersection of:
+🚀 Project Directory
 
-🖥️ IT Infrastructure & Systems
+A growing collection of projects covering software, networking, data
+analytics, and IT.
 
-📊 Data & Analytics
+::: {align="center"}
 
-☁️ Cloud & Technology
+<h2>
 
-⚙️ Automation & Process Improvement
+⭐ Key Projects
 
-💼 Technology + Business
+</h2>
 
-I'm using GitHub to document projects, develop technical skills, and build solutions that demonstrate how I approach real-world technology problems.
-
-<a name="projects"></a>
-
-🚀 Featured Projects
+:::
 
 <table>
+
 <tr>
-<td width="33%" valign="top">
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="70" alt="Python logo">{=html}
 
 🐍 Snake Game
 
 A coded version of the classic Snake game.
 
-Focus
+<br>{=html}
 
-Programming logic
-
-Game mechanics
-
-User interaction
-
-Problem solving
-
-Tech: Python
-
-<br>
-
-View Project →
+<a href="YOUR_SNAKE_REPO_URL">{=html}
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="View Snake Game">{=html}
+</a>{=html}
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="70" alt="Python logo">{=html}
 
 🌐 Network Health Checker
 
-A tool designed to check and evaluate basic network health and connectivity.
+A network-focused project for checking connectivity and basic network
+health.
 
-Focus
+<br>{=html}
 
-Network diagnostics
-
-Connectivity testing
-
-System monitoring
-
-Troubleshooting
-
-Tech: Python • TCP/IP
-
-<br>
-
-View Project →
+<a href="YOUR_NETWORK_REPO_URL">{=html}
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="View Network Health Checker">{=html}
+</a>{=html}
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
+
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="70" alt="Google Colab logo">{=html}
 
 🏠 Housing Price Analytics
 
-A predictive analytics project using Google Colab to analyze housing data and build a model for predicting housing prices.
+A predictive housing-price analytics project built in Google Colab.
 
-Focus
+<br>{=html}
 
-Data analysis
-
-Predictive modeling
-
-Data visualization
-
-Machine learning
-
-Tech: Python • Pandas • Google Colab
-
-<br>
-
-View Colab Project →
+<a href="YOUR_GOOGLE_COLAB_URL">{=html}
+<img src="https://img.shields.io/badge/OPEN%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open Housing Price Analytics">{=html}
+</a>{=html}
 
 </td>
+
 </tr>
+
 </table>
 
-<a name="skills"></a>
+<br>{=html}
 
-🛠️ Technical Skills
+::: {align="center"}
+<a href="https://github.com/IsaacA718?tab=repositories">{=html}
+<img src="https://img.shields.io/badge/VIEW%20ALL%20GITHUB%20PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub repositories">{=html}
+</a>{=html}
+:::
 
-Programming
+🧩 More Projects
 
+<table>
 
+<tr>
 
+<td width="50%" valign="top">
 
+🐍 Python / Systems
 
+INET 4031 Module 2
+Lab
 
+Add User
+Script
 
-Infrastructure & Cloud
+</td>
 
+<td width="50%" valign="top">
 
+🌐 Web / Infrastructure
 
+INET 4031 Lab 4
+Website
 
+PHP CRUD Web
+Application
 
-Web & Data
+Puppet Lab
 
+</td>
 
+</tr>
 
+</table>
 
+🛠️ Technologies
 
-<a name="experience"></a>
+::: {align="center"}
+<a href="https://www.python.org/">{=html}<img src="https://cdn.simpleicons.org/python/3776AB" width="45" alt="Python">{=html}</a>{=html}
+ 
+<a href="https://www.java.com/">{=html}<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="45" alt="Java">{=html}</a>{=html}
+ 
+<a href="https://www.r-project.org/">{=html}<img src="https://cdn.simpleicons.org/r/276DC3" width="45" alt="R">{=html}</a>{=html}
+ 
+<a href="https://www.mysql.com/">{=html}<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" alt="SQL">{=html}</a>{=html}
+ 
+<a href="https://aws.amazon.com/">{=html}<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45" alt="AWS">{=html}</a>{=html}
+ 
+<a href="https://git-scm.com/">{=html}<img src="https://cdn.simpleicons.org/git/F05032" width="45" alt="Git">{=html}</a>{=html}
+ 
+<a href="https://github.com/IsaacA718">{=html}<img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub">{=html}</a>{=html}
 
-💼 Experience
+<br>{=html}<br>{=html}
 
-Apple
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">{=html}
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">{=html}
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111">{=html}
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">{=html}
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">{=html}
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111111">{=html}
+<img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge">{=html}
+:::
 
-Sales Specialist → Technology & Customer Solutions
+<a name="connect">{=html}</a>{=html}
 
-Helping customers identify technology needs, troubleshoot technical challenges, configure devices, and find solutions across the Apple ecosystem.
+🔗 Connect With Me
 
-Interstate Parking
+::: {align="center"}
+<a href="https://github.com/IsaacA718">{=html}
+<img src="https://cdn.simpleicons.org/github/181717" width="55" alt="GitHub">{=html}<br>{=html}
+<b>{=html}GitHub</b>{=html} </a>{=html}
 
-Attendant Ambassador
+    
 
-Customer experience, operations, transaction tracking, and issue resolution in a fast-paced environment.
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/isaac-arikax718/)">{=html}
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" alt="LinkedIn">{=html}<br>{=html}
+<b>{=html}LinkedIn</b>{=html} </a>{=html}
 
-Entrepreneurship
+    
 
-Owner — Spooktown Halloween
+<a href="YOUR_INSTAGRAM_URL">{=html}
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" alt="Instagram">{=html}<br>{=html}
+<b>{=html}Instagram</b>{=html} </a>{=html}
 
-Managed inventory, supplier coordination, spreadsheets, payments, marketing, and day-to-day business operations.
+    
 
-<a name="github"></a>
+<a href="YOUR_X_URL">{=html}
+<img src="https://cdn.simpleicons.org/x/111111" width="55" alt="X">{=html}<br>{=html}
+<b>{=html}X</b>{=html} </a>{=html}
 
-📊 GitHub
+    
 
-<div align="center">
+<a href="mailto:Isaacxenosv2@gmail.com">{=html}
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" alt="Email">{=html}<br>{=html}
+<b>{=html}Email</b>{=html} </a>{=html}
+:::
 
-<a href="https://github.com/IsaacA718">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsaacA718&show_icons=true&hide_border=true&rank_icon=github" />
-</a>
-<a href="https://github.com/IsaacA718">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacA718&layout=compact&hide_border=true" />
-</a>
+<br>{=html}
 
-</div>
+::: {align="center"}
+<a href="YOUR_RESUME_URL">{=html}
+<img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-6C63FF?style=for-the-badge" alt="View resume">{=html}
+</a>{=html}
+:::
 
-<a name="connect"></a>
+::: {align="center"}
 
-🔗 Let's Connect
+Thanks for stopping by 👋
 
-<div align="center">
+Building • Learning • Solving • Improving
 
-
-
-
-
-<br><br>
-
-Thanks for visiting my profile.
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D4A8,50:00C2FF,100:6C63FF" width="100%"/>{=html}
+:::
