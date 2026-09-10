@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### Information Technology • Data • Systems • Analytics
+### Building the Future • Curious by Nature • Ideas into Reality
 
 **IT Infrastructure graduate who enjoys building practical technology solutions.**
 
