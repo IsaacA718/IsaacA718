@@ -43,16 +43,34 @@ I use GitHub to build, experiment, document, and showcase projects across
 
 <br>
 
-<div align="center">
+<p align="center">
 
-<img src="YOUR_UMN_BLOCK_M_IMAGE_URL" width="28" alt="University of Minnesota"/>
-<img src="https://img.shields.io/badge/IT%20Infrastructure-7A0019?style=flat-square&labelColor=333333" alt="IT Infrastructure"/>
+  <!-- University of Minnesota -->
+  <a href="https://twin-cities.umn.edu/">
+    <img
+      src="https://brand.carlsonschool.umn.edu/sites/brand.carlsonschool.umn.edu/files/styles/folwell_three_quarter/public/2026-08/social-media-profile-picture-umn.png.avif?itok=jCqJqSar"
+      width="40"
+      height="40"
+      alt="University of Minnesota Block M"
+    />
+  </a>
 
-<img src="https://img.shields.io/badge/Focus-Technology%20%2B%20Data-00AEEF?style=flat-square&labelColor=333333" alt="Technology and Data"/>
+  <img
+    src="https://img.shields.io/badge/University%20of%20Minnesota-IT%20Infrastructure-7A0019?style=flat-square&labelColor=333333"
+    alt="University of Minnesota IT Infrastructure"
+  />
 
-<img src="https://img.shields.io/badge/Building-Real--World%20Projects-00B894?style=flat-square&labelColor=333333" alt="Real World Projects"/>
+  <img
+    src="https://img.shields.io/badge/Focus-Technology%20%2B%20Data-00AEEF?style=flat-square&labelColor=333333"
+    alt="Technology and Data"
+  />
 
-</div>
+  <img
+    src="https://img.shields.io/badge/Building-Real--World%20Projects-00B894?style=flat-square&labelColor=333333"
+    alt="Real World Projects"
+  />
+
+</p>
 
 ---
 
